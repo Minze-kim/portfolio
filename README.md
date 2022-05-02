@@ -1,1 +1,1 @@
-# portfolio
+# MinJae Kim's IT portfolio
